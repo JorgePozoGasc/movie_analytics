@@ -2,34 +2,46 @@
 
 ## 🎯 Objetivo
 
-Analizar factores clave que determinan el éxito en taquilla y predecir la probabilidad de ganar un Oscar, apoyando decisiones estratégicas con ciencia de datos.
+Analizar factores clave que determinan el éxito en taquilla y preparar la base para futuros modelos predictivos (por ejemplo, ingresos globales o probabilidad de premios).  
+Este análisis busca apoyar la toma de decisiones estratégicas en la industria cinematográfica, combinando insights de negocio y ciencia de datos.
 
 ---
 
 ## ✅ Objetivos específicos
 
-- Identificar variables que afectan ingresos.
-- Predecir recaudación estimada.
-- Analizar relación entre éxito comercial y premios.
-- Estimar probabilidad de ganar un Oscar.
+- Identificar variables que afectan los ingresos globales.
+- Entender la relación entre éxito comercial y estrategias de distribución.
+- Analizar patrones por género, año y mercado.
+- Generar bases para predecir ingresos futuros o éxito en premiaciones.
 
 ---
 
-## 💻 Stack
+## 📄 Dataset
 
-- Python (pandas, scikit-learn)
-- Visualización: matplotlib, seaborn, plotly
-- Google Colab
-- GitHub
+- Más de 4,800 películas.
+- Variables clave: ingresos globales, domésticos, internacionales, género, año, votos, países de producción, idioma y rating.
+- Datos totalmente limpiados, sin nulos.
 
 ---
 
-## 🚀 Plan
+## 💻 Stack tecnológico
 
-1. Recolección y limpieza de datos
-2. Análisis exploratorio (EDA)
-3. Modelos predictivos
-4. Visualizaciones finales
-5. Recomendaciones
+- Python (pandas, numpy, scikit-learn)
+- Visualización: matplotlib, seaborn
+- Entorno: Google Colab
+- Control de versiones: GitHub
+
+---
+
+## 🔎 Resultados actuales
+
+- Exploración detallada (EDA) con gráficos y patrones clave.
+- Insights documentados: top películas, impacto de la pandemia, análisis de géneros, correlaciones.
+- Notebook limpio, estructurado y visualmente claro.
+
+---
+
+## 🗂 Estructura del repositorio
+
 
 
