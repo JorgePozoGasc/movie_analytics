@@ -41,7 +41,18 @@ Este análisis busca apoyar la toma de decisiones estratégicas en la industria 
 
 ---
 
-## 🗂 Estructura del repositorio
+## 🚀 Próximos pasos
 
+- Construir modelos predictivos para estimar ingresos y probabilidad de premios.
+- Crear dashboards interactivos o visualizaciones ejecutivas.
+- Preparar presentaciones finales para stakeholders y reclutadores.
+
+---
+
+## 📬 Contacto
+
+Si quieres saber más sobre este proyecto o discutir colaboraciones estratégicas, puedes escribirme a través de GitHub o LinkedIn.
+
+---
 
 
